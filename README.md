@@ -1,1 +1,1 @@
-# SE-University-Course-Project
+# Software engineering University Course Project
